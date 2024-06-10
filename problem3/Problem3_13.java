@@ -3,7 +3,7 @@ package problem3;
 public class Problem3_13 {
 
 	public static void main(String[] args) {
-		int dice = (int)(Math.random()*3)+1;
+		int a = (int)(Math.random()*3)+1;
 		System.out.println("a="+a);
 		if(a == 1){
 			System.out.println("グー");
