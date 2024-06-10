@@ -3,9 +3,10 @@ package problem5;
 public class Problem5_04{
 
 	public static void main(String[] args) {
-		int data[] = new int[10];	//大きさは実行結果の例に合わせている
+		//実行結果の例に合わせて、「大きさは、10」「値は、1から100の乱数」
+		int data[] = new int[10];
 		for(int i=0; i<a.length; i++) {
-			data[i] = (int)(Math.random()*10)+1;
+			data[i] = (int)(Math.random()*100)+1;
 			System.out.print(data[i] + " ");
 		}
 		System.out.println();
