@@ -6,7 +6,7 @@ public class Problem5_07{
 		int data[] = new int[5];
 		int sum;
 		int avg;
-		for(int i=0; i<a.length; i++) {
+		for(int i=0; i<data.length; i++) {
 			data[i] = (int)(Math.random()*10)+1;
 			System.out.print(data[i] + " ");
 			sum += data[i];
@@ -19,14 +19,14 @@ public class Problem5_07{
 
 		System.out.println();
 		System.out.print("平均値より大きい数 : ");
-		for(int i=0; i<a.length; i++) {
+		for(int i=0; i<data.length; i++) {
 			if(data[i] > avg) {
 				System.out.print(data[i] + " ");
 			}
 		}
 		System.out.println();
 		System.out.print("平均値より小さい数 : ");
-		for(int i=0; i<a.length; i++) {
+		for(int i=0; i<data.length; i++) {
 			if(data[i] < avg) {
 				System.out.print(data[i] + " ");
 			}
