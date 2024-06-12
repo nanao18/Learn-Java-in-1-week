@@ -7,7 +7,7 @@ public class Problem5_08{
 		int pls;
 		int minus;
 		int zero;
-		for(int i=0; i<a.length; i++) {
+		for(int i=0; i<data.length; i++) {
 			data[i] = (int)(Math.random()*10)-10;
 			System.out.print(data[i] + " ");
 			if(data[i] > 0) {
