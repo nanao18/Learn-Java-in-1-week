@@ -7,7 +7,7 @@ public class Problem5_06{
 		int sum;
 		int max;
 		int min;
-		for(int i=0; i<a.length; i++) {
+		for(int i=0; i<data.length; i++) {
 			data[i] = (int)(Math.random()*100)+1;
 			System.out.print(data[i] + " ");
 			sum += data[i];
