@@ -5,14 +5,14 @@
 ### 基本編
 <table>
 <tr><th>日数</th><th>内容</th><th>詳細</th></tr>
-<tr><td>0日目</td><td>Javaとは</td><td>プログラミングとは何か、Javaとは何かについて学習します。</td></tr>
-<tr><td>1日目</td><td>はじめの一歩</td><td>最も基本的な処理、HelloWorldの表示を通して、Java言語の基本を学習します。</td></tr>
-<tr><td>2日目</td><td>演算と変数</td><td>Javaで様々な計算をする方法を学習します。またその値を、変数に入れてみます。</td></tr>
-<tr><td>3日目</td><td>条件分岐</td><td>ifやswitchといった、分岐処理を行う方法を学習します。</td></tr>
-<tr><td>4日目</td><td>繰り返し処理</td><td>for、while、do～whileにより、繰り返し処理を実現する方法を学習します。</td></tr>
-<tr><td>5日目</td><td>配列変数</td><td>Javaで配列変数を用いて、多くのデータを扱う方法を学習します。</td></tr>
-<tr><td>6日目</td><td>クラスとオブジェクト</td><td>オブジェクト指向の基本と、クラスの作成方法について説明します。</td></tr>
-<tr><td>7日目</td><td>アクセス指定子</td><td>クラスのアクセス指定子とカプセル化について学習します。</td></tr>
+<tr><td>0日目</td><td>Javaとは（What is Java?）</td><td>プログラミングとは何か、Javaとは何かについて学習します。</td></tr>
+<tr><td>1日目</td><td>はじめの一歩（Java Introduction）</td><td>最も基本的な処理、HelloWorldの表示を通して、<br>Java言語の基本を学習します。</td></tr>
+<tr><td>2日目</td><td>演算と変数（Operators and Variables）</td><td>Javaで様々な計算をする方法を学習します。<br>またその値を、変数に入れてみます。</td></tr>
+<tr><td>3日目</td><td>条件分岐（Conditional branch）</td><td>ifやswitchといった、分岐処理を行う方法を学習します。</td></tr>
+<tr><td>4日目</td><td>繰り返し処理（Loops）</td><td>for、while、do～whileにより、<br>繰り返し処理を実現する方法を学習します。</td></tr>
+<tr><td>5日目</td><td>配列変数（Arrays）</td><td>Javaで配列変数を用いて、多くのデータを扱う方法を学習します。</td></tr>
+<tr><td>6日目</td><td>クラスとオブジェクト（Class and Object）</td><td>オブジェクト指向の基本と、クラスの作成方法について説明します。</td></tr>
+<tr><td>7日目</td><td>アクセス指定子（Access modifier and Encapsulation）</td><td>クラスのアクセス指定子とカプセル化について学習します。</td></tr>
 </table>
 
 ## 発展
@@ -21,13 +21,13 @@
 ### 応用編
 <table>
 <tr><th>日数</th><th>内容</th><th>詳細</th></tr>
-<tr><td>1日目</td><td>静的メンバ</td><td>インスタンスの生成を必要としない静的メンバについて説明します。</td></tr>
-<tr><td>2日目</td><td>継承</td><td>クラスの機能を拡張できる、継承の概念について説明します。</td></tr>
-<tr><td>3日目</td><td>抽象クラス</td><td>単体ではインスタンスを作ることができなし、抽象クラスについて説明します。</td></tr>
-<tr><td>4日目</td><td>インターフェース</td><td>抽象クラスをさらに発展させたインターフェースの概念について説明します。</td></tr>
-<tr><td>5日目</td><td>コレクション①</td><td>ArrayListによるコレクションと、関連する事項について学習します。</td></tr>
-<tr><td>6日目</td><td>コレクション②</td><td>ArrayList以外のコレクションについて学習します。</td></tr>
-<tr><td>7日目</td><td>例外処理</td><td>実行時に発生する問題である例外と、その処理方法について学びます。
+<tr><td>1日目</td><td>静的メンバ（Static member）</td><td>インスタンスの生成を必要としない静的メンバについて説明します。</td></tr>
+<tr><td>2日目</td><td>継承（Inheritance）</td><td>クラスの機能を拡張できる、継承の概念について説明します。</td></tr>
+<tr><td>3日目</td><td>抽象クラス（Abstract class）</td><td>単体ではインスタンスを作ることができなし、抽象クラスについて説明します。</td></tr>
+<tr><td>4日目</td><td>インターフェース（Interface）</td><td>抽象クラスをさらに発展させたインターフェースの概念について説明します。</td></tr>
+<tr><td>5日目</td><td>コレクション①（Collection 1）</td><td>ArrayListによるコレクションと、関連する事項について学習します。</td></tr>
+<tr><td>6日目</td><td>コレクション②（Collection 2）</td><td>ArrayList以外のコレクションについて学習します。</td></tr>
+<tr><td>7日目</td><td>例外処理（Exception handling）</td><td>実行時に発生する問題である例外と、その処理方法について学びます。
 </table>
 
 練習問題
@@ -37,7 +37,7 @@
 <table>
 <tr><th>No.</th><th>内容</th><th>対応する基本編の日数</th></tr>
 <tr><td>1</td><td>最も基本的なプログラム、演算と変数</td><td>1日目、2日目</td></tr>
-<tr><td>2</td><td>条件分岐</td><td>3日目</td></tr>
+<tr><td>2</td><td>条件分岐（Conditional branch）</td><td>3日目</td></tr>
 <tr><td>3</td><td>繰り返し処理</td><td>4日目</td></tr>
 <tr><td>4</td><td>配列変数</td><td>5日目</td></tr>
 <tr><td>5</td><td>クラスとオブジェクト</td><td>6日目</td></tr>
@@ -50,13 +50,13 @@
 ### 応用編の問題
 <table>
 <tr><th>No.</th><th>内容</th><th>対応する基本編の日数</th></tr>
-<tr><td>1</td><td>静的メンバ</td><td>1日目</td></tr>
-<tr><td>2</td><td>継承</td><td>2日目</td></tr>
-<tr><td>3</td><td>抽象クラス</td><td>3日目</td></tr>
-<tr><td>4</td><td>インターフェース</td><td>4日目</td></tr>
-<tr><td>5</td><td>コレクション①</td><td>5日目</td></tr>
-<tr><td>6</td><td>コレクション②</td><td>6日目</td></tr>
-<tr><td>7</td><td>例外処理</td><td>7日目</td></tr>
+<tr><td>1</td><td>静的メンバ（Static member）</td><td>1日目</td></tr>
+<tr><td>2</td><td>継承（Inheritance）<td>2日目</td></tr>
+<tr><td>3</td><td>抽象クラス（Abstract class）</td><td>3日目</td></tr>
+<tr><td>4</td><td>インターフェース（Interface）</td><td>4日目</td></tr>
+<tr><td>5</td><td>コレクション①（Collection 1）</td><td>5日目</td></tr>
+<tr><td>6</td><td>コレクション②（Collection 2）</td><td>6日目</td></tr>
+<tr><td>7</td><td>例外処理（Exception handling）</td><td>7日目</td></tr>
 </table>
 
 様々なクラス
