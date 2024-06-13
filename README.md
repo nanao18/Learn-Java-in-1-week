@@ -37,7 +37,7 @@
 <table>
 <tr><th>No.</th><th>内容</th><th>対応する基本編の日数</th></tr>
 <tr><td>1</td><td>最も基本的なプログラム、演算と変数</td><td>1日目、2日目</td></tr>
-<tr><td>2</td><td>条件分岐（Conditional branch）</td><td>3日目</td></tr>
+<tr><td>2</td><td>条件分岐</td><td>3日目</td></tr>
 <tr><td>3</td><td>繰り返し処理</td><td>4日目</td></tr>
 <tr><td>4</td><td>配列変数</td><td>5日目</td></tr>
 <tr><td>5</td><td>クラスとオブジェクト</td><td>6日目</td></tr>
@@ -50,13 +50,13 @@
 ### 応用編の問題
 <table>
 <tr><th>No.</th><th>内容</th><th>対応する基本編の日数</th></tr>
-<tr><td>1</td><td>静的メンバ（Static member）</td><td>1日目</td></tr>
-<tr><td>2</td><td>継承（Inheritance）<td>2日目</td></tr>
-<tr><td>3</td><td>抽象クラス（Abstract class）</td><td>3日目</td></tr>
-<tr><td>4</td><td>インターフェース（Interface）</td><td>4日目</td></tr>
-<tr><td>5</td><td>コレクション①（Collection 1）</td><td>5日目</td></tr>
-<tr><td>6</td><td>コレクション②（Collection 2）</td><td>6日目</td></tr>
-<tr><td>7</td><td>例外処理（Exception handling）</td><td>7日目</td></tr>
+<tr><td>1</td><td>静的メンバ</td><td>1日目</td></tr>
+<tr><td>2</td><td>継承）<td>2日目</td></tr>
+<tr><td>3</td><td>抽象クラス</td><td>3日目</td></tr>
+<tr><td>4</td><td>インターフェース</td><td>4日目</td></tr>
+<tr><td>5</td><td>コレクション①</td><td>5日目</td></tr>
+<tr><td>6</td><td>コレクション②</td><td>6日目</td></tr>
+<tr><td>7</td><td>例外処理</td><td>7日目</td></tr>
 </table>
 
 様々なクラス
