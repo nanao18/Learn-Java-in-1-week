@@ -2,7 +2,7 @@ package class1;
  
 import java.io.*;
  
-public class ClassSample03 {
+public class ClassSample3 {
 	public static void main(String[] args){
 		try{											//例外処理
 			FileWriter fw = new FileWriter("c:¥¥test¥¥File1.txt");	//ファイルのオープン

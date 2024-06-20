@@ -2,7 +2,7 @@ package class1;
  
 import java.io.*;
  
-public class ClassSample01 {
+public class ClassSample1 {
 	public static void main(String[] args){
 		try{
 			File file = new File("c:¥¥test¥¥filesample.txt");	// Fileクラスのインスタンスを作成

@@ -2,7 +2,7 @@ package class1;
  
 import java.io.*;
  
-public class ClassSample05 {
+public class ClassSample5 {
 	public static void main(String[] args){
 		FileWriter fw = null;
 		FileReader fr = null;					//finallyで使うのでここで宣言

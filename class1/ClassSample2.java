@@ -2,7 +2,7 @@ package class1;
  
 import java.io.*;
  
-public class ClassSample02 {
+public class ClassSample2 {
 	public static void main(String[] args){
 		File fi = new File("c:¥¥test");
 		File[] fiList = fi.listFiles();
