@@ -10,7 +10,6 @@ public class Minmax {
 		} else {
 			return n3;
 		}
-		return n2;
 	}
 	//	最小値の取得
 	public int min(int n1,int n2,int n3){

@@ -10,11 +10,11 @@ public class Calc {
         return a - b;
     }
     //  積算
-    double sub(double a,double b){
+    double mul(double a,double b){
         return a * b;
     }
     //  割算
-    double sub(double a,double b){
+    double div(double a,double b){
         return a / b;
     }
 }

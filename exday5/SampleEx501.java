@@ -1,6 +1,6 @@
 package exday5;
  
-import java.util.*;
+import java.util.ArrayList;
  
 public class SampleEx501 {
  

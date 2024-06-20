@@ -4,10 +4,10 @@ public class NewCalc extends FundCalc {
  
 	public double mul()
 	{
-		 return number1 * number2;
+		 return super.getNumber1() * super.getNumber2();
 	}
 	public double div()
 	{
-		 return number1 / number2;
+		 return super.getNumber1() / super.getNumber2();
 	}
 }

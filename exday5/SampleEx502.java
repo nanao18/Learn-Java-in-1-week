@@ -1,11 +1,11 @@
 package exday5;
  
-import java.util.*;
+import java.util.ArrayList;
  
 public class SampleEx502 {
  
 	public static void main(String[] args) {
-		ArrayList<Student> al = new ArrayLis<Student>();
+		ArrayList<Student> al = new ArrayList<Student>();
 		al.add(new Student("安藤一郎",1,1));
 		al.add(new Student("伊藤花子",1,2));
 		al.add(new Student("太田たかし",2,3));

@@ -23,6 +23,6 @@ public class Problem5_04{
 				System.out.print(data[i] + " ");
 			}
 		}
-		System.out.println()
+		System.out.println();
 	}
 }

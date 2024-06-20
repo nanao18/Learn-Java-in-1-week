@@ -1,8 +1,8 @@
 package class7;
  
-import java.util.*;
+import java.util.Locale;
  
-public class SampleClass01 {
+public class SampleClass1 {
  
 	public static void main(String[] args) {
 		//各言語と国のロケールを取得

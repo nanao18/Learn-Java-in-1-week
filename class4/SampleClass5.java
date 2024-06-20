@@ -1,6 +1,6 @@
 package class4;
  
-public class SampleClass05 {
+public class SampleClass5 {
  
 	public static void main(String[] args) {
 		String str1 = "     Hello World.     "; // 空白を含んだ文字列先頭と末尾に空白

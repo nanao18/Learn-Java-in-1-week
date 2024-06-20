@@ -1,6 +1,6 @@
 package exday3;
  
-public class SampleEx203 {
+public class SampleEx303 {
 	public static void main(String args[]){
 		Bird b[] = new Bird[2]; 	//	Birdクラスの変数の配列を生成
 		b[0] = new Crow2(); 		//	b[0]に、Crow2クラスのインスタンスを生成

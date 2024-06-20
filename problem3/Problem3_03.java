@@ -1,6 +1,6 @@
 package problem3;
 
-public class Problem3_3 {
+public class Problem3_03 {
 
 	public static void main(String[] args) {
 		int num = (int)(Math.random()*100)+1;

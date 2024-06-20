@@ -1,8 +1,8 @@
 package class5;
  
-import java.util.*;
+import java.util.Scanner;
  
-public class SampleClass03 {
+public class SampleClass3 {
  
 	public static void main(String[] args) {
 		System.out.print("Input Data:");
@@ -13,6 +13,7 @@ public class SampleClass03 {
 			System.out.println(i + " : "+ str);
 			i++;
 		}
+		scan.close();
 	}
  
 }

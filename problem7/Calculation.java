@@ -12,7 +12,7 @@ public class Calculation {
 	{
 		this.number1 = number1;
 	}
-	public int getNumber1()
+	public int getNumber2()
 	{
 		return number2;
 	}

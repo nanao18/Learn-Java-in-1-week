@@ -1,5 +1,7 @@
 package problemex5;
- 
+
+import java.util.ArrayList;
+
 public class Problemex5_1 {
 	public static void main(String[] args) {
 		int num;

@@ -1,6 +1,6 @@
 package problem4;
 
-public class Problem4_08 {
+public class Problem4_09 {
 
 	public static void main(String[] args) {
 		while(true){

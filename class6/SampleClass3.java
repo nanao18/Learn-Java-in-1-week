@@ -1,6 +1,6 @@
 package class6;
  
-public class SampleClass03 {
+public class SampleClass3 {
  
 	public static void main(String[] args) {
 		StringBuffer sb = new StringBuffer("Apple Pineapple "); 		//オブジェクトを生成

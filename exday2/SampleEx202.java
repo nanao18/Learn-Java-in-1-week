@@ -12,3 +12,4 @@ public class SampleEx202 {
 		System.out.println(o.getClass());
 	}
  
+}

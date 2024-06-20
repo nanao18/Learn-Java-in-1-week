@@ -4,9 +4,9 @@ public class Problem5_08{
 
 	public static void main(String[] args) {
 		int data[] = new int[5];
-		int pls;
-		int minus;
-		int zero;
+		int plus = 0;
+		int minus = 0;
+		int zero = 0;
 		for(int i=0; i<data.length; i++) {
 			data[i] = (int)(Math.random()*10)-10;
 			System.out.print(data[i] + " ");

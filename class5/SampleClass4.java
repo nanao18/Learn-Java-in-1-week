@@ -1,9 +1,11 @@
 package class5;
  
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.util.Scanner;
  
-public class SampleClass04 {
+public class SampleClass4 {
  
 	public static void main(String[] args) {
 		Scanner sc = null;

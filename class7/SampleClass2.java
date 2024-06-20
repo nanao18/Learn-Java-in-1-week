@@ -1,9 +1,9 @@
 package class7;
  
-import java.util.*;
-import java.text.*;
+import java.text.NumberFormat;
+import java.util.Locale;
  
-public class SampleClass02 {
+public class SampleClass2 {
  
 	public static void main(String[] args) {
 		int number =12300;

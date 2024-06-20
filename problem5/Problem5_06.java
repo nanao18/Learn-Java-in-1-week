@@ -4,9 +4,9 @@ public class Problem5_06{
 
 	public static void main(String[] args) {
 		int data[] = new int[10];
-		int sum;
-		int max;
-		int min;
+		int sum = 0;
+		int max = 0;
+		int min = 0;
 		for(int i=0; i<data.length; i++) {
 			data[i] = (int)(Math.random()*100)+1;
 			System.out.print(data[i] + " ");

@@ -1,8 +1,8 @@
 package class5;
  
-import java.util.*;
+import java.util.Scanner;
  
-public class SampleClass02 {
+public class SampleClass2 {
  
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ

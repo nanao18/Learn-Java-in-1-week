@@ -4,8 +4,8 @@ public class Problem5_07{
 
 	public static void main(String[] args) {
 		int data[] = new int[5];
-		int sum;
-		int avg;
+		int sum = 0;
+		int avg = 0;
 		for(int i=0; i<data.length; i++) {
 			data[i] = (int)(Math.random()*10)+1;
 			System.out.print(data[i] + " ");

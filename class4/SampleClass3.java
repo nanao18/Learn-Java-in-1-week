@@ -1,6 +1,6 @@
 package class4;
  
-public class SampleClass03 {
+public class SampleClass3 {
  
 	public static void main(String[] args) {
 		String str1 = "apple";

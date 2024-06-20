@@ -7,7 +7,7 @@ public class Problem3_17 {
 		System.out.println(num);
 		if(num <= 50 && num%2 == 0){
 			System.out.println("50以下の偶数です。");
-		else if(num <= 50){
+		} else if(num <= 50){
 			System.out.println("50以下です。");
 		} else if(num%2 == 0){
 			System.out.println("偶数です。");
