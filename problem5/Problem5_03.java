@@ -9,6 +9,7 @@ public class Problem5_03{
 			System.out.print(data[i] + " ");
 		}
 		System.out.println();
+		System.out.println();
 		System.out.print("奇数 : ");
 		for(int i=0; i<data.length; i++) {
 			if(data[i]%2 != 0) {

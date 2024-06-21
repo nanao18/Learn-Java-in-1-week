@@ -3,7 +3,7 @@ package problem3;
 public class Problem3_12 {
 
 	public static void main(String[] args) {
-		int num = (int)(Math.random()*10)-10;
+		int num = (int)(Math.random()*20)-10;
 		System.out.println(num);
 		if(num < 0){
 			System.out.println("負の値です");

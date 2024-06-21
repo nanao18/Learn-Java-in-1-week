@@ -9,6 +9,7 @@ public class Problem5_05{
 			System.out.print(data[i] + " ");
 		}
 		System.out.println();
+		System.out.println();
 		System.out.print("3の倍数 : ");
 		for(int i=0; i<data.length; i++) {
 			if(data[i]%3 == 0) {

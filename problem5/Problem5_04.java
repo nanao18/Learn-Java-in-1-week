@@ -10,6 +10,7 @@ public class Problem5_04{
 			System.out.print(data[i] + " ");
 		}
 		System.out.println();
+		System.out.println();
 		System.out.print("50以上の数 : ");
 		for(int i=0; i<data.length; i++) {
 			if(data[i] >= 50) {

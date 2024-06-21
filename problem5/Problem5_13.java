@@ -14,9 +14,9 @@ public class Problem5_13{
 				min = Math.min(min, data[i][j]);
 			}
 			System.out.println();
-			System.out.println();
-			System.out.println("最大値：" + max);
-			System.out.println("最小値：" + min);
 		}
+		System.out.println();
+		System.out.println("最大値：" + max);
+		System.out.println("最小値：" + min);
 	}
 }

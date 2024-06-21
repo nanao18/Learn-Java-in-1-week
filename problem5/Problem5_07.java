@@ -11,6 +11,7 @@ public class Problem5_07{
 			System.out.print(data[i] + " ");
 			sum += data[i];
 		}
+		System.out.println();
 		avg = sum / data.length;
 
 		System.out.println();
